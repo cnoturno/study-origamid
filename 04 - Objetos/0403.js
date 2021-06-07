@@ -17,7 +17,7 @@ Element
 // USER
 // Objetos do user, são os objetos definidos pelo seu aplicativo. Ou seja, qualquer objeto que você criar ou que importar de alguma biblioteca externa.
 const Pessoa = {
-  nome: 'André';
+  nome: 'André'
 }
 
 
